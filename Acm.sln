@@ -89,6 +89,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1493. One Step from Happine
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1349. Farm", "1349. Farm\1349. Farm.csproj", "{5F45C542-BBFD-4BF1-873D-64377C4AF568}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1607. Taxi", "1607. Taxi\1607. Taxi.csproj", "{CA63A074-A227-4B55-971E-58A53DE2D1DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -267,6 +269,10 @@ Global
 		{5F45C542-BBFD-4BF1-873D-64377C4AF568}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F45C542-BBFD-4BF1-873D-64377C4AF568}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F45C542-BBFD-4BF1-873D-64377C4AF568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA63A074-A227-4B55-971E-58A53DE2D1DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA63A074-A227-4B55-971E-58A53DE2D1DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA63A074-A227-4B55-971E-58A53DE2D1DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA63A074-A227-4B55-971E-58A53DE2D1DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
