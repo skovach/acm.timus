@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a+b 1000", "a+b\a+b 1000.csproj", "{C9ACF86F-7F52-4A64-BA45-C48060FC4DEB}"
 EndProject
@@ -94,6 +94,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1925. British Scientists Save the World", "1925. British Scientists Save the World\1925. British Scientists Save the World.csproj", "{256AED8A-8889-404C-A856-A3A9032CC209}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1496. Spammer", "1496. Spammer\1496. Spammer.csproj", "{44CE9A6D-9549-44BD-84C0-7B464FC708F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1196. History Exam", "1196. History Exam\1196. History Exam.csproj", "{3EA68F30-F838-4A06-8443-A337568F4A1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -285,6 +287,10 @@ Global
 		{44CE9A6D-9549-44BD-84C0-7B464FC708F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44CE9A6D-9549-44BD-84C0-7B464FC708F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44CE9A6D-9549-44BD-84C0-7B464FC708F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EA68F30-F838-4A06-8443-A337568F4A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA68F30-F838-4A06-8443-A337568F4A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA68F30-F838-4A06-8443-A337568F4A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA68F30-F838-4A06-8443-A337568F4A1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
