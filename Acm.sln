@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a+b 1000", "a+b\a+b 1000.csproj", "{C9ACF86F-7F52-4A64-BA45-C48060FC4DEB}"
 EndProject
@@ -100,6 +100,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1654. Cipher Message", "1654. Cipher Message\1654. Cipher Message.csproj", "{82788C43-FDE1-43F4-9C95-FDE20EB3A02E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManyToManyTry", "ManyToManyTry\ManyToManyTry.csproj", "{34FA0FE0-3098-4383-BF90-63FB9D02C4D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1617. Flat Spots", "1617. Flat Spots\1617. Flat Spots.csproj", "{7F533D60-B244-4253-9779-ABEBCFD1BB49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -303,6 +305,10 @@ Global
 		{34FA0FE0-3098-4383-BF90-63FB9D02C4D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34FA0FE0-3098-4383-BF90-63FB9D02C4D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34FA0FE0-3098-4383-BF90-63FB9D02C4D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F533D60-B244-4253-9779-ABEBCFD1BB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F533D60-B244-4253-9779-ABEBCFD1BB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F533D60-B244-4253-9779-ABEBCFD1BB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F533D60-B244-4253-9779-ABEBCFD1BB49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
