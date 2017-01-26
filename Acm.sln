@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a+b 1000", "a+b\a+b 1000.csproj", "{C9ACF86F-7F52-4A64-BA45-C48060FC4DEB}"
 EndProject
@@ -102,11 +102,16 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManyToManyTry", "ManyToManyTry\ManyToManyTry.csproj", "{34FA0FE0-3098-4383-BF90-63FB9D02C4D8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeEpoche", "TimeEpoche\TimeEpoche.csproj", "{DE389D0B-26EA-426C-BE05-E19A0FD1CFAC}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1617. Flat Spots", "1617. Flat Spots\1617. Flat Spots.csproj", "{7F533D60-B244-4253-9779-ABEBCFD1BB49}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1837. Isenbaev's Number", "1837. Isenbaev's Number\1837. Isenbaev's Number.csproj", "{3894F8B9-3DB4-4923-BFB6-8E2E5F1049CF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2002. Test Task", "2002. Test Task\2002. Test Task.csproj", "{614E2880-7F31-483D-8375-F7B5C2704131}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefVSValie", "RefVSValie\RefVSValie.csproj", "{185FD0FE-94A3-45BE-8133-2FED1513787C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2035. Another Dress Rehearsal", "2035. Another Dress Rehearsal\2035. Another Dress Rehearsal.csproj", "{228E945A-B440-4AA6-B532-C026B5DD7AB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -314,6 +319,10 @@ Global
 		{DE389D0B-26EA-426C-BE05-E19A0FD1CFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE389D0B-26EA-426C-BE05-E19A0FD1CFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE389D0B-26EA-426C-BE05-E19A0FD1CFAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F533D60-B244-4253-9779-ABEBCFD1BB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F533D60-B244-4253-9779-ABEBCFD1BB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F533D60-B244-4253-9779-ABEBCFD1BB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F533D60-B244-4253-9779-ABEBCFD1BB49}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3894F8B9-3DB4-4923-BFB6-8E2E5F1049CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3894F8B9-3DB4-4923-BFB6-8E2E5F1049CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3894F8B9-3DB4-4923-BFB6-8E2E5F1049CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -322,6 +331,14 @@ Global
 		{614E2880-7F31-483D-8375-F7B5C2704131}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{614E2880-7F31-483D-8375-F7B5C2704131}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{614E2880-7F31-483D-8375-F7B5C2704131}.Release|Any CPU.Build.0 = Release|Any CPU
+		{185FD0FE-94A3-45BE-8133-2FED1513787C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{185FD0FE-94A3-45BE-8133-2FED1513787C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{185FD0FE-94A3-45BE-8133-2FED1513787C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{185FD0FE-94A3-45BE-8133-2FED1513787C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{228E945A-B440-4AA6-B532-C026B5DD7AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228E945A-B440-4AA6-B532-C026B5DD7AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228E945A-B440-4AA6-B532-C026B5DD7AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228E945A-B440-4AA6-B532-C026B5DD7AB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
