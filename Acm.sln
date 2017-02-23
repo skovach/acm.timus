@@ -113,6 +113,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefVSValie", "RefVSValie\Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2035. Another Dress Rehearsal", "2035. Another Dress Rehearsal\2035. Another Dress Rehearsal.csproj", "{228E945A-B440-4AA6-B532-C026B5DD7AB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1025. Democracy in Danger", "1025. Democracy in Danger\1025. Democracy in Danger.csproj", "{DA1F8D74-87B0-4614-91BB-0013C1EC4E42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1224. Spiral", "1224. Spiral\1224. Spiral.csproj", "{D6B8BCCA-C74F-4B29-B460-27A5D8DF2472}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -339,6 +343,14 @@ Global
 		{228E945A-B440-4AA6-B532-C026B5DD7AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{228E945A-B440-4AA6-B532-C026B5DD7AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{228E945A-B440-4AA6-B532-C026B5DD7AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA1F8D74-87B0-4614-91BB-0013C1EC4E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1F8D74-87B0-4614-91BB-0013C1EC4E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1F8D74-87B0-4614-91BB-0013C1EC4E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1F8D74-87B0-4614-91BB-0013C1EC4E42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B8BCCA-C74F-4B29-B460-27A5D8DF2472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B8BCCA-C74F-4B29-B460-27A5D8DF2472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B8BCCA-C74F-4B29-B460-27A5D8DF2472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B8BCCA-C74F-4B29-B460-27A5D8DF2472}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
