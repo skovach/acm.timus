@@ -11,17 +11,35 @@ namespace _1224.Spiral
         static void Main(string[] args)
         {
             List<string> field = Console.ReadLine().Split(' ').ToList();
-            int m = int.Parse(field[0]);
-            int n = int.Parse(field[1]);
+            uint n = uint.Parse(field[0]);
+            uint m = uint.Parse(field[1]);
 
-            int turns = 0;
+            //int turns = 0;
 
-            int minSide = m > n ? n : m;
-            int isOdd = minSide%2 == 0 ? 0 : 1;
+            //if (n == 0 || m == 0)
+            //{
+            //    Console.WriteLine(0);
+            //    return;
+            //}
 
-            int spirals = ((minSide-isOdd) / 2) * 4;
+            //if (n == 1 || m == 1)
+            //{
+            //    Console.WriteLine(1);
+            //    return;
+            //}
 
-            Console.WriteLine(spirals);
+            //if (n == 2 || m == 2)
+            //{
+            //    Console.WriteLine(3);
+            //    return;
+            //}
+
+            //int minSide = m > n ? n : m;
+            //int isOdd = n > m ? 1 : 0;
+
+            //int spirals = (((minSide) / 2) + 1)* 4;
+
+            Console.WriteLine(m >= n ? 2 * (n - 1) : 2 * (m - 1) + 1);
         }
     }
 }
